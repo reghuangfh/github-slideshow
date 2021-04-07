@@ -1,5 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "第二页标题!"
 ---
 这是第二页
